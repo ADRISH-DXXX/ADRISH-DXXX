@@ -1,13 +1,13 @@
 <!-- Colorful Banner -->
 <p align="center">
-  <img src="https://your-image-link-here.com" alt="Colorful Banner" style="width: 100%; max-width: 1200px;"/>
+  <img src="https://drive.google.com/file/d/1PI4WwYxgEJK4SbHSryeZYt33SPKI0e81/view?usp=drive_link" alt="" style="width: 100%; max-width: 1200px;"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=bold+Code&size=32&duration=2500&pause=1000&color=05014a&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Adrish+Dutta;Hardcore+Java+Developer;Turning+Coffee+%E2%98%95%EF%B8%8F+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=bold+Code&size=32&duration=2500&pause=1000&color=05014a&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Adrish+Dutta;Hardcore+Java+Developer;Turning+Coffee+%E2%98%95%EF%B8%8F+into+Code+%F0%9F%92%BB" alt="Typing SVG" /><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 </h1>
 
-<h3 align="center" style="color: #36BCF7;">Turning Coffee ☕ into Code, One Java Class at a Time 💻</h3>
+<h3 align="center"  style="color: #36BCF7;">Turning Coffee ☕ into Code, One Java Class at a Time 💻</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -15,15 +15,18 @@
   </a> 
 </p>
 
+
+
+
 ---
 
-### 🌱 Currently Learning
+### 🍳 What I’m Cooking Up:
 **Spring Boot**
 
-### 💬 Ask Me About
+### ❓Wanna know more? Hit me with your questions!
 **Java, Spring Boot**
 
-### 📫 How to Reach Me
+###  🔍🕵️‍♂️Hunting me down? Here’s the cheat code!
 **adrishprof69@gmail.com**
 
 ---
