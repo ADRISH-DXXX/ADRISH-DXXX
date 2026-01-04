@@ -1,84 +1,71 @@
-<!-- HERO WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Adrish&fontSize=90&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=I+build+systems+that+move.;I+design+interfaces+that+feel+right.;I+engineer+logic+that+scales.;I+ship." />
-</p>
-
-<br><br>
-
-<!-- CINEMATIC MOTION -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656970-6f3c8a4b-71e6-4bdb-9a2a-bd0e4f2a7c5e.gif" width="720"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=I+build+systems+that+move.;I+design+interfaces+that+feel+right.;I+engineer+logic+that+doesn't+break.;This+is+not+a+profile.;This+is+a+presence." />
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=9AE6FF&center=true&vCenter=true&width=900&lines=Real-time+architecture.;Clean+execution.;Zero+noise.;Only+signal." />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-9c6e2e5e-8f65-4c8f-bff1-9c7c4fd1a1c1.gif" width="720"/>
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=700&color=FFFFFF&center=true&vCenter=true&width=900&lines=Code+is+not+what+I+write.;It's+how+I+think.;Every+decision+has+structure.;Every+system+has+intent." />
 </p>
 
 <br><br><br>
 
-<!-- SKILL POWER — NO LIST, JUST PRESENCE -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,git&theme=dark" />
-</p>
-
-<br><br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=E0E0E0&center=true&vCenter=true&width=900&lines=Backend+that+doesn’t+break.;Frontends+that+don’t+beg+for+attention.;Logic+that+explains+itself." />
-</p>
-
-<br><br><br>
-
-<!-- PROJECT ENERGY WITHOUT NAMING -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-7d6d6d2e-7a52-4e4f-9b6a-1c5d8bdb9b8a.gif" width="650"/>
-</p>
-
-<br><br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1100&color=FFFFFF&center=true&vCenter=true&width=900&lines=Instant+communication.;State-aware+systems.;User-aware+interfaces.;Built+to+feel+alive." />
-</p>
-
-<br><br><br>
-
-<!-- PHILOSOPHY — SHORT, SHARP -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1300&color=AAAAAA&center=true&vCenter=true&width=900&lines=No+overengineering.;No+tutorial+code.;No+copy-paste+thinking." />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1300&color=AAAAAA&center=true&vCenter=true&width=900&lines=Just+clarity.;Just+control.;Just+results." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=600&color=00FF9C&center=true&vCenter=true&width=1000&lines=Backend+that+scales.;Frontend+that+flows.;Logic+that+holds+under+pressure.;No+shortcuts.+No+noise." />
 </p>
 
 <br><br><br>
 
-<!-- FINAL STATEMENT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=This+is+not+a+portfolio.&fontSize=36&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=It’s+a+signal.&fontSize=42&fontColor=9AE6FF&animation=fadeIn" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656949-5e5c8b47-7c70-4dbe-bec3-6d3d6c77c58f.gif" width="720"/>
 </p>
 
 <br><br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656986-3c1dbb64-2f64-4c6c-9f8c-8fcbcb8cfa2d.gif" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=800&color=FFD700&center=true&vCenter=true&width=1000&lines=Real-time+systems.;Clean+architecture.;Predictable+behavior.;If+it+ships,+it+works." />
 </p>
 
 <br><br><br>
 
-<!-- END -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2000&color=666666&center=true&vCenter=true&width=900&lines=If+you+know%2C+you+know." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=700&color=FF5F5F&center=true&vCenter=true&width=1000&lines=I+optimize+for+clarity.;I+design+for+humans.;I+build+for+scale.;I+debug+until+it+disappears." />
+</p>
+
+<br><br><br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-efc4bcb4-7e8d-44a2-b36f-19c6a3dff0a3.gif" width="720"/>
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=900&color=00F7FF&center=true&vCenter=true&width=1100&lines=I+don't+chase+trends.;I+master+fundamentals.;I+ship+systems+that+last." />
+</p>
+
+<br><br><br><br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <strong>If you're reading this — you're already looking for quality.</strong>
 </p>
