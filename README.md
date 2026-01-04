@@ -1,98 +1,114 @@
-<!-- Colorful Banner -->
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">🚀 Adrish Dutta</h1>
+<h3 align="center">Full Stack Developer | Java | Python | AI & ML Enthusiast</h3>
+
 <p align="center">
-  <img src="https://drive.google.com/file/d/1PI4WwYxgEJK4SbHSryeZYt33SPKI0e81/view?usp=drive_link" alt="" style="width: 100%; max-width: 1200px;"/>
+  <img src="https://komarev.com/ghpvc/?username=AdrishDutta&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AdrishDutta?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/AdrishDutta?label=Stars&style=for-the-badge" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=bold+Code&size=32&duration=2500&pause=1000&color=05014a&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Adrish+Dutta;Hardcore+Java+Developer;Turning+Coffee+%E2%98%95%EF%B8%8F+into+Code+%F0%9F%92%BB" alt="Typing SVG" /><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
-</h1>
-
-<h3 align="center"  style="color: #36BCF7;">Turning Coffee ☕ into Code, One Java Class at a Time 💻</h3>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adrish-dxxx&theme=algolia&no-frame=true&no-bg=true" alt="GitHub Trophy" />
-  </a> 
-</p>
-
-
-
-
----
-
-### 🍳 What I’m Cooking Up:
-**Spring Boot**
-
-### ❓Wanna know more? Hit me with your questions!
-**Java, Spring Boot**
-
-###  🔍🕵️‍♂️Hunting me down? Here’s the cheat code!
-**adrishprof69@gmail.com**
-
----
-
-<h3 align="center" style="color: #FF5733;">Connect with Me:</h3>
 <p align="center">
-  <a href="https://www.leetcode.com/adrish-xxx" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Code.+Build.+Scale.;Turning+Ideas+Into+Reality;Always+Learning+Always+Growing" />
 </p>
 
 ---
 
-<h3 align="left" style="color: #28A745;">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+## 🧠 About Me
+
+🎓 **Engineering Student (2027 Passout)**  
+💻 Passionate about **Software Development, Backend Systems & AI**  
+🚀 Building **real-world projects** with clean architecture  
+📈 Aspiring **Top-Tier Tech Professional**
+
+💡 *“I don’t just write code — I engineer solutions.”*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+### ⚙️ Backend & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 WhatsDown – Real-Time Chat Application
+🔹 Live group chat  
+🔹 Online user tracking  
+🔹 Group creator visibility  
+🔹 Clean & professional UI  
+
+🛠️ **Tech:** Flask, Socket.IO, HTML, CSS  
+⭐ *Built with scalability & UX in mind*
+
+---
+
+### 🛒 E-Commerce Web Application
+🔹 Product listing & cart system  
+🔹 Order flow simulation  
+🔹 Responsive UI  
+
+🛠️ **Tech:** HTML, CSS, JavaScript, Backend Logic  
+
+---
+
+### 🧠 AI / ML Based Projects
+🔹 Machine Learning fundamentals  
+🔹 Data preprocessing & analysis  
+🔹 Model building & evaluation  
+
+🛠️ **Tech:** Python, NumPy, ML Libraries  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrishDutta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrishDutta&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishDutta&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 🎯 What I’m Currently Working On
+
+✅ Advanced **Java & DSA**  
+✅ **Backend Engineering**  
+✅ Real-World **Full Stack Projects**  
+✅ Preparing for **Top Tech Companies**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrish-dxxx&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrish-dxxx&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrish-dxxx&theme=algolia" alt="GitHub Streak" />
-</p>
+<h3 align="center">🔥 If you like my work, don’t forget to ⭐ the repo! 🔥</h3>
+<h4 align="center">💻 Code | 🚀 Build | 📈 Grow</h4>
