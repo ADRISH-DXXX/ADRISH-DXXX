@@ -1,134 +1,84 @@
-<!-- ===================== HERO SECTION ===================== -->
-
+<!-- HERO WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Hey,%20I'm%20Adrish%20👋&fontSize=55&fontAlignY=40&color=gradient&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Adrish&fontSize=90&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=I+build+things+that+feel+alive.;Real-Time+Apps+%7C+Clean+UI+%7C+Solid+Logic;Code+that+looks+good+and+scales+better;Welcome+to+my+GitHub+Universe+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=I+build+systems+that+move.;I+design+interfaces+that+feel+right.;I+engineer+logic+that+scales.;I+ship." />
 </p>
 
----
+<br><br>
 
-<!-- ===================== AURA SECTION ===================== -->
-
+<!-- CINEMATIC MOTION -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284103-8f8d1b4c-9d4f-4f30-b7b1-3a9a7b6cfd5f.gif" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216656970-6f3c8a4b-71e6-4bdb-9a2a-bd0e4f2a7c5e.gif" width="720"/>
 </p>
 
-<h2 align="center">⚡ I don’t just code — I craft experiences.</h2>
+<br><br>
 
 <p align="center">
-From real-time systems to sleek interfaces,  
-I focus on **impact**, **clarity**, and **execution**.
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=9AE6FF&center=true&vCenter=true&width=900&lines=Real-time+architecture.;Clean+execution.;Zero+noise.;Only+signal." />
 </p>
 
----
+<br><br><br>
 
-<!-- ===================== LIVE STATS ===================== -->
-
+<!-- SKILL POWER — NO LIST, JUST PRESENCE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdrishDutta&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/AdrishDutta?style=for-the-badge&color=black"/>
-  <img src="https://img.shields.io/github/stars/AdrishDutta?style=for-the-badge&color=blue"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,git&theme=dark" />
 </p>
 
----
-
-<!-- ===================== SKILLS – ANIMATED ===================== -->
-
-<h2 align="center">🛠️ My Playground</h2>
+<br><br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,git,mysql&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=E0E0E0&center=true&vCenter=true&width=900&lines=Backend+that+doesn’t+break.;Frontends+that+don’t+beg+for+attention.;Logic+that+explains+itself." />
 </p>
 
+<br><br><br>
+
+<!-- PROJECT ENERGY WITHOUT NAMING -->
 <p align="center">
-Clean backend.  
-Smooth frontend.  
-Zero nonsense.
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-7d6d6d2e-7a52-4e4f-9b6a-1c5d8bdb9b8a.gif" width="650"/>
 </p>
 
----
-
-<!-- ===================== FEATURED BUILDS ===================== -->
-
-<h2 align="center">🚀 Stuff I’ve Built</h2>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 💬 WhatsDown
-⚡ Real-time group chat  
-👁️ Online presence visibility  
-👑 Group creator identity  
-🎨 Dark, modern UI  
-
-Built to feel **instant**.
-
-</td>
-<td width="50%" align="center">
-
-### 🛒 E-Commerce System
-🧠 Smart flow logic  
-🛍️ Cart & checkout simulation  
-📱 Responsive design  
-
-Built to feel **smooth**.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================== CODE ENERGY ===================== -->
+<br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrishDutta&show_icons=true&theme=radical&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrishDutta&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1100&color=FFFFFF&center=true&vCenter=true&width=900&lines=Instant+communication.;State-aware+systems.;User-aware+interfaces.;Built+to+feel+alive." />
+</p>
+
+<br><br><br>
+
+<!-- PHILOSOPHY — SHORT, SHARP -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1300&color=AAAAAA&center=true&vCenter=true&width=900&lines=No+overengineering.;No+tutorial+code.;No+copy-paste+thinking." />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1300&color=AAAAAA&center=true&vCenter=true&width=900&lines=Just+clarity.;Just+control.;Just+results." />
+</p>
+
+<br><br><br>
+
+<!-- FINAL STATEMENT -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=This+is+not+a+portfolio.&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishDutta&layout=compact&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=It’s+a+signal.&fontSize=42&fontColor=9AE6FF&animation=fadeIn" />
 </p>
 
----
-
-<!-- ===================== PHILOSOPHY ===================== -->
-
-<h2 align="center">🧠 Philosophy</h2>
+<br><br>
 
 <p align="center">
-⚫ Simple > Complex  
-⚫ Clarity > Cleverness  
-⚫ Shipping > Overthinking  
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-3c1dbb64-2f64-4c6c-9f8c-8fcbcb8cfa2d.gif" width="500"/>
 </p>
 
+<br><br><br>
+
+<!-- END -->
 <p align="center">
-Code should **communicate**, not confuse.
-</p>
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-<h2 align="center">🌐 Let’s Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=D14836"/>
-  </a>
-</p>
-
----
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Scroll.%20Explore.%20Star.%20⭐&fontSize=30&fontAlignY=50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2000&color=666666&center=true&vCenter=true&width=900&lines=If+you+know%2C+you+know." />
 </p>
