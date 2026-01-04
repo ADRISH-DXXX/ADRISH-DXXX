@@ -1,87 +1,114 @@
-<!-- ===================== OPENING SIGNAL ===================== -->
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">🚀 Adrish Dutta</h1>
+<h3 align="center">Full Stack Developer | Java | Python | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=Adrish&fontSize=88&fontColor=0f172a&animation=fadeIn" />
+  <img src="https://komarev.com/ghpvc/?username=AdrishDutta&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AdrishDutta?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/AdrishDutta?label=Stars&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=900&color=0f172a&center=true&vCenter=true&width=1100&lines=I+engineer+systems.;I+design+flow.;I+ship+with+intent." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Code.+Build.+Scale.;Turning+Ideas+Into+Reality;Always+Learning+Always+Growing" />
 </p>
 
-<br><br>
+---
 
-<!-- ===================== MOTION / DEPTH ===================== -->
+## 🧠 About Me
+
+🎓 **Engineering Student (2027 Passout)**  
+💻 Passionate about **Software Development, Backend Systems & AI**  
+🚀 Building **real-world projects** with clean architecture  
+📈 Aspiring **Top-Tier Tech Professional**
+
+💡 *“I don’t just write code — I engineer solutions.”*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+### ⚙️ Backend & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 WhatsDown – Real-Time Chat Application
+🔹 Live group chat  
+🔹 Online user tracking  
+🔹 Group creator visibility  
+🔹 Clean & professional UI  
+
+🛠️ **Tech:** Flask, Socket.IO, HTML, CSS  
+⭐ *Built with scalability & UX in mind*
+
+---
+
+### 🛒 E-Commerce Web Application
+🔹 Product listing & cart system  
+🔹 Order flow simulation  
+🔹 Responsive UI  
+
+🛠️ **Tech:** HTML, CSS, JavaScript, Backend Logic  
+
+---
+
+### 🧠 AI / ML Based Projects
+🔹 Machine Learning fundamentals  
+🔹 Data preprocessing & analysis  
+🔹 Model building & evaluation  
+
+🛠️ **Tech:** Python, NumPy, ML Libraries  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656947-5c4f8e36-ec61-4e7b-b1df-6c3c25f9c8d0.gif" width="80%" />
-</p>
-
-<br><br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=334155&center=true&vCenter=true&width=1100&lines=Clean+architecture.;State-aware+logic.;Interfaces+that+don’t+fight+users." />
-</p>
-
-<br><br><br>
-
-<!-- ===================== SKILL MASS (SILENT FLEX) ===================== -->
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,nodejs,flask,fastapi,spring,mysql,postgres,mongodb,redis,git,github,docker,linux,aws&perline=10" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&pause=1000&color=475569&center=true&vCenter=true&width=1100&lines=Languages+are+tools.;Frameworks+are+leverage.;Fundamentals+are+power." />
-</p>
-
-<br><br><br>
-
-<!-- ===================== SCALE / SYSTEM THINKING ===================== -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-9a7c7c34-ec9b-45f3-b33f-2a47c9a9d7f5.gif" width="75%" />
-</p>
-
-<br><br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1100&color=0f172a&center=true&vCenter=true&width=1100&lines=Real-time+communication.;Concurrency-aware+design.;Failure-aware+systems." />
-</p>
-
-<br><br><br>
-
-<!-- ===================== ENGINEERING MINDSET ===================== -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1300&color=64748b&center=true&vCenter=true&width=1100&lines=No+overengineering.;No+copy-paste+thinking.;No+noise." />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrishDutta&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrishDutta&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1300&color=64748b&center=true&vCenter=true&width=1100&lines=Only+clarity.;Only+control.;Only+execution." />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrishDutta&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
-<br><br><br>
+---
 
-<!-- ===================== PRESENCE / CONFIDENCE ===================== -->
+## 🎯 What I’m Currently Working On
+
+✅ Advanced **Java & DSA**  
+✅ **Backend Engineering**  
+✅ Real-World **Full Stack Projects**  
+✅ Preparing for **Top Tech Companies**
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=This+is+not+a+README.&fontSize=34&fontColor=0f172a&animation=fadeIn" />
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=It’s+how+I+think.&fontSize=42&fontColor=0284c7&animation=fadeIn" />
-</p>
+---
 
-<br><br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656986-3c1dbb64-2f64-4c6c-9f8c-8fcbcb8cfa2d.gif" width="60%" />
-</p>
-
-<br><br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=2000&color=94a3b8&center=true&vCenter=true&width=1100&lines=If+you+understand+this%2C+we’ll+work+well+together." />
-</p>
+<h3 align="center">🔥 If you like my work, don’t forget to ⭐ the repo! 🔥</h3>
+<h4 align="center">💻 Code | 🚀 Build | 📈 Grow</h4>
